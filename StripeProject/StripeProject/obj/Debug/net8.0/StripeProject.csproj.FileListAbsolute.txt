@@ -1,0 +1,90 @@
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\bin\Debug\net8.0\appsettings.json
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\bin\Debug\net8.0\StripeProject.exe
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\bin\Debug\net8.0\StripeProject.deps.json
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\bin\Debug\net8.0\StripeProject.runtimeconfig.json
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\bin\Debug\net8.0\StripeProject.dll
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\bin\Debug\net8.0\StripeProject.pdb
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\bin\Debug\net8.0\Stripe.net.dll
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\obj\Debug\net8.0\StripeProject.csproj.AssemblyReference.cache
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\obj\Debug\net8.0\StripeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\obj\Debug\net8.0\StripeProject.AssemblyInfoInputs.cache
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\obj\Debug\net8.0\StripeProject.AssemblyInfo.cs
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\obj\Debug\net8.0\StripeProject.csproj.CoreCompileInputs.cache
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\obj\Debug\net8.0\StripeProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\obj\Debug\net8.0\StripeProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\obj\Debug\net8.0\staticwebassets\msbuild.StripeProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\obj\Debug\net8.0\staticwebassets\msbuild.build.StripeProject.props
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StripeProject.props
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StripeProject.props
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\obj\Debug\net8.0\scopedcss\bundle\StripeProject.styles.css
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\obj\Debug\net8.0\StripePr.F469E654.Up2Date
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\obj\Debug\net8.0\StripeProject.dll
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\obj\Debug\net8.0\refint\StripeProject.dll
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\obj\Debug\net8.0\StripeProject.pdb
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\obj\Debug\net8.0\StripeProject.genruntimeconfig.cache
+C:\Users\smart\source\repos\Myproject\Persistance\StripeProject\StripeProject\obj\Debug\net8.0\ref\StripeProject.dll
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\bin\Debug\net8.0\appsettings.json
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\bin\Debug\net8.0\StripeProject.exe
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\bin\Debug\net8.0\StripeProject.deps.json
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\bin\Debug\net8.0\StripeProject.runtimeconfig.json
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\bin\Debug\net8.0\StripeProject.dll
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\bin\Debug\net8.0\StripeProject.pdb
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\bin\Debug\net8.0\Stripe.net.dll
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\bin\Debug\net8.0\System.Drawing.Common.dll
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\bin\Debug\net8.0\System.Security.Permissions.dll
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\obj\Debug\net8.0\StripeProject.csproj.AssemblyReference.cache
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\obj\Debug\net8.0\StripeProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\obj\Debug\net8.0\StripeProject.AssemblyInfoInputs.cache
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\obj\Debug\net8.0\StripeProject.AssemblyInfo.cs
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\obj\Debug\net8.0\StripeProject.csproj.CoreCompileInputs.cache
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\obj\Debug\net8.0\StripeProject.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\obj\Debug\net8.0\StripeProject.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\obj\Debug\net8.0\staticwebassets\msbuild.StripeProject.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\obj\Debug\net8.0\staticwebassets\msbuild.build.StripeProject.props
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StripeProject.props
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StripeProject.props
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\obj\Debug\net8.0\scopedcss\bundle\StripeProject.styles.css
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\obj\Debug\net8.0\StripePr.F469E654.Up2Date
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\obj\Debug\net8.0\StripeProject.dll
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\obj\Debug\net8.0\refint\StripeProject.dll
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\obj\Debug\net8.0\StripeProject.pdb
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\obj\Debug\net8.0\StripeProject.genruntimeconfig.cache
+c:\Users\jawad morad\Documents\StripeProject\StripeProject\StripeProject\obj\Debug\net8.0\ref\StripeProject.dll
